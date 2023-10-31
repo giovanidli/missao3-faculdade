@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.titulo {
+    color: blue;
+}
+.paragrafo {
+    color: green;
+    font-size: 16px;
+}
+
+.importante {
+    border: 1px solid black;
+}
+
+.image {
+    justify-content: center;
+}
+
+.img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    
+}
